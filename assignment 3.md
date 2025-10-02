@@ -26,4 +26,6 @@ This question is newsworthy because it is important for people to know what they
 
 -  sort from largest to smallest to look for most common offense (theft/other)
 
-# Finding Data Set for Final Project -- see Caroline's repository
+# Final project stories and data -- see Caroline's repository
+
+(https://github.com/carolinejones942/datajournalism-fall2025/edit/main/assignment%203/Final%20Project%20Data%20and%20Story%20Research.md)
