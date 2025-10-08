@@ -4,8 +4,7 @@
 
 # New visualization
 
-![Social Media Chart](images/social-trends.jpg)
-
+(https://github.com/srliebeck/datajournalism-fall2025/blob/main/Data%20Visualizations.pdf)
 
 ## Reasoning
 
