@@ -16,7 +16,7 @@ I turned this into a bar chart because I find it easier to visualize the data th
 
 # New visualization
 
-insert image
+(https://github.com/srliebeck/datajournalism-fall2025/blob/main/Data%20Visualizations%20(1).pdf)
 
 ## Reasoning
 
